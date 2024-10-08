@@ -14,15 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -30,9 +26,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\csf23fak\\OneDrive - Ulster University\\y2s1 Object Oriented Programming\\Repos\\Week3-Library\\Week3-Library\\Program.cs",
               "RelativeDocumentMoniker": "Week3-Library\\Program.cs",
-              "ToolTip": "C:\\Users\\csf23fak\\OneDrive - Ulster University\\y2s1 Object Oriented Programming\\Repos\\Week3-Library\\Week3-Library\\Program.cs*",
-              "RelativeToolTip": "Week3-Library\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\csf23fak\\OneDrive - Ulster University\\y2s1 Object Oriented Programming\\Repos\\Week3-Library\\Week3-Library\\Program.cs",
+              "RelativeToolTip": "Week3-Library\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T08:25:39.151Z",
               "EditorCaption": ""
