@@ -3,6 +3,7 @@
     string Title;
     string Author;
     string ISBN;
+    int Pages;
 
     void DisplayInfo()
     {
@@ -12,7 +13,8 @@
         Console.WriteLine($"Book title: {Title}");
         Console.WriteLine($"Book author: {Author}");
         Console.WriteLine($"Book ISBN: {ISBN}");
-        Console.WriteLine("--------------------");
+        Console.WriteLine($"Number of pages: {Pages}");
+        Console.WriteLine("");
     }
 
 
@@ -23,6 +25,7 @@
         book.Title = "C# for Beginners";
         book.Author = "Bill Gates";
         book.ISBN = "123456";
+        book.Pages = 200;
 
         Book book2 = new Book();
         book2.Title = "C# Methods and Classes";
