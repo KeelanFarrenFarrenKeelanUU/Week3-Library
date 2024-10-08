@@ -1,0 +1,15 @@
+C:\Users\csf23fak\OneDrive - Ulster University\y2s1 Object Oriented Programming\Repos\Week3-Library\Week3-Library\bin\Debug\net8.0\Week3-Library.exe
+C:\Users\csf23fak\OneDrive - Ulster University\y2s1 Object Oriented Programming\Repos\Week3-Library\Week3-Library\bin\Debug\net8.0\Week3-Library.deps.json
+C:\Users\csf23fak\OneDrive - Ulster University\y2s1 Object Oriented Programming\Repos\Week3-Library\Week3-Library\bin\Debug\net8.0\Week3-Library.runtimeconfig.json
+C:\Users\csf23fak\OneDrive - Ulster University\y2s1 Object Oriented Programming\Repos\Week3-Library\Week3-Library\bin\Debug\net8.0\Week3-Library.dll
+C:\Users\csf23fak\OneDrive - Ulster University\y2s1 Object Oriented Programming\Repos\Week3-Library\Week3-Library\bin\Debug\net8.0\Week3-Library.pdb
+C:\Users\csf23fak\OneDrive - Ulster University\y2s1 Object Oriented Programming\Repos\Week3-Library\Week3-Library\obj\Debug\net8.0\Week3-Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csf23fak\OneDrive - Ulster University\y2s1 Object Oriented Programming\Repos\Week3-Library\Week3-Library\obj\Debug\net8.0\Week3-Library.AssemblyInfoInputs.cache
+C:\Users\csf23fak\OneDrive - Ulster University\y2s1 Object Oriented Programming\Repos\Week3-Library\Week3-Library\obj\Debug\net8.0\Week3-Library.AssemblyInfo.cs
+C:\Users\csf23fak\OneDrive - Ulster University\y2s1 Object Oriented Programming\Repos\Week3-Library\Week3-Library\obj\Debug\net8.0\Week3-Library.csproj.CoreCompileInputs.cache
+C:\Users\csf23fak\OneDrive - Ulster University\y2s1 Object Oriented Programming\Repos\Week3-Library\Week3-Library\obj\Debug\net8.0\Week3-Library.sourcelink.json
+C:\Users\csf23fak\OneDrive - Ulster University\y2s1 Object Oriented Programming\Repos\Week3-Library\Week3-Library\obj\Debug\net8.0\Week3-Library.dll
+C:\Users\csf23fak\OneDrive - Ulster University\y2s1 Object Oriented Programming\Repos\Week3-Library\Week3-Library\obj\Debug\net8.0\refint\Week3-Library.dll
+C:\Users\csf23fak\OneDrive - Ulster University\y2s1 Object Oriented Programming\Repos\Week3-Library\Week3-Library\obj\Debug\net8.0\Week3-Library.pdb
+C:\Users\csf23fak\OneDrive - Ulster University\y2s1 Object Oriented Programming\Repos\Week3-Library\Week3-Library\obj\Debug\net8.0\Week3-Library.genruntimeconfig.cache
+C:\Users\csf23fak\OneDrive - Ulster University\y2s1 Object Oriented Programming\Repos\Week3-Library\Week3-Library\obj\Debug\net8.0\ref\Week3-Library.dll
